@@ -8,7 +8,7 @@ public class cajaFuerteTest {
 
 	@Test
 	public void test() {
-		fail("Not yet implemented");
+		
 	}
 
 }
